@@ -13,3 +13,4 @@
  | Adobe InDesign | [Scribus](https://www.scribus.net/downloads/) |
  | Microsoft Office | [LibreOffice](https://www.libreoffice.org/download/download-libreoffice/) |
  | Microsoft VS Code | [Codium](https://vscodium.com/#install) |
+ | macOS / Windows | [PopOS](https://pop.system76.com/) |
