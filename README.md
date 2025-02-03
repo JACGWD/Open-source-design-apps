@@ -3,6 +3,7 @@
  
  | Proprietary App | Open Source Equivalent |
  | --------------- | ---------------------- |
+ | Adobe Bridge | [XnView MP](https://www.xnview.com/en/xnviewmp/#downloads) |
  | Adobe Photoshop | [GNU Image Manipulation Program (GIMP)](https://www.gimp.org/downloads/) |
  | Adobe Photoshop | [Krita (painting/illustration)](https://krita.org/en/download/) |
  | Adobe Photoshop | [Pinta (simple editor)](https://www.pinta-project.com/releases/) |
@@ -13,4 +14,5 @@
  | Adobe InDesign | [Scribus](https://www.scribus.net/downloads/) |
  | Microsoft Office | [LibreOffice](https://www.libreoffice.org/download/download-libreoffice/) |
  | Microsoft VS Code | [Codium](https://vscodium.com/#install) |
+ | Microsoft VS Code | [Kate](https://kate-editor.org/get-it/) |
  | macOS / Windows | [PopOS](https://pop.system76.com/) |
